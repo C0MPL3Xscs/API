@@ -1,0 +1,6 @@
+Django
+djangorestframework
+psycopg2-binary
+mysqlclient
+secure-smtplib
+django-cors-headers
